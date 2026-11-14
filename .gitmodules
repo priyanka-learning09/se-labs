@@ -1,0 +1,9 @@
+[submodule "lab4"]
+	path = lab4
+	url = https://github.com/priyanka-learning09/12_maze_runner.git
+[submodule "lab5"]
+	path = lab5
+	url = https://github.com/priyanka-learning09/L5_12_room_scheduler.git
+[submodule "lab6_lab7"]
+	path = lab6_lab7
+	url = https://github.com/priyanka-learning09/L6_L7_12_cloud_storage_tier.git
